@@ -1,4 +1,4 @@
-### Custom Web Scraping Agent
+# Custom Web Scraping Agent
 
 ## Set up
 - create a .env file with all your env variables (for reference see app/configs.py)
